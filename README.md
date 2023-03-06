@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sreelekha3399
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently learning R
+- 👋 Hi, I’m Sreelekha
+- 👀 I’m interested in Data and Analytics
+- 🌱 I’m currently learning R, and Machine Learning models
 - 💞️ I’m looking to collaborate on projects related to data/business analysis
 - 📫 How to reach me sreelekha579@gmail.com
 
